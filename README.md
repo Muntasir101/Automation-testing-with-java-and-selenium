@@ -1,30 +1,4 @@
-# Learn Automation Testing with Java and Selenium
-
-## Your First Steps towards Great Automation Tester
-
-* [Course Overview](#course-overview)
-  - [Course Steps](#step-list)
-  - [Expectations](#expectations)
-* [Installing Eclipse, Maven and Java](#installing-tools)
-* [Running Examples](#running-examples)
-* [About in28Minutes](#about-in28minutes)
-  - [Our Beliefs](#our-beliefs)
-  - [Our Approach](#our-approach)
-  - [Find Us](#useful-links)
-  - [Other Courses](#other-courses)
-
-## Course Checklist
-
-## Getting Started
-- Eclipse - https://courses.in28minutes.com/p/eclipse-tutorial-for-beginners
-- Maven - https://courses.in28minutes.com/p/maven-tutorial-for-beginners-in-5-steps
-- JUnit - https://courses.in28minutes.com/p/junit-tutorial-for-beginners
-- Mockito - https://courses.in28minutes.com/p/mockito-for-beginner-in-5-steps
-
-## Installing Tools
-- Installation Video : https://www.youtube.com/playlist?list=PLBBog2r6uMCSmMVTW_QmDLyASBvovyAO3
-- GIT Repository For Installation : https://github.com/in28minutes/getting-started-in-5-steps
-- PDF : https://github.com/in28minutes/SpringIn28Minutes/blob/master/InstallationGuide-JavaEclipseAndMaven_v2.pdf
+# Automation Testing with Java and Selenium
 
 ## Running Examples
 - Download the zip or clone the Git repository.
